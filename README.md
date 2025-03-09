@@ -9,12 +9,12 @@ Materiale folosite in cadrul laboratorului de metode numerice sunt organizate du
 
 
 ## Programa laboratoarelor
-Programul laboratoarelor la seria CB 
-Sapt 1: nu se tine laborator
-Sapt 2: Introducere în Matlab/Octave
-Sapt 3: SST, SIT, Crout, Doolittle
-Sapt 4: Cholesky, Gram-Schmidt
-Sapt 5: Givens, Householder             ** 1 Curs: eliminare gaussiana, conditionare numerica
-Sapt 6: Eliminare gaussiana            ** 2 Cursuri: stabilitate numerica, inversare matrice, complexitati, Met iterative.
-Sapt 7: Metode iterative de rezolvare SEL     ** 1 Curs: Rezolvarea ecuațiilor neliniare 
-Sapt 8: to be continued
+Programul laboratoarelor la seria CB:
+- Sapt 1: nu se tine laborator
+- Sapt 2: Introducere în Matlab/Octave
+- Sapt 3: SST, SIT, Crout, Doolittle
+- Sapt 4: Cholesky, Gram-Schmidt
+- Sapt 5: Givens, Householder             ** 1 Curs: eliminare gaussiana, conditionare numerica
+- Sapt 6: Eliminare gaussiana            ** 2 Cursuri: stabilitate numerica, inversare matrice, complexitati, Met iterative.
+- Sapt 7: Metode iterative de rezolvare SEL     ** 1 Curs: Rezolvarea ecuațiilor neliniare 
+- Sapt 8: to be continued
