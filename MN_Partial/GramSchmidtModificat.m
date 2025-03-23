@@ -26,13 +26,13 @@ function [Q R] = GramSchmidtModificat(A)
   % Se initializeaza matricele Q si R
   [n n] = size(A);
   Q = zeros(n, n);
-  R = zeros(n,n);
+  R = zeros(n, n);
   for i = 1 : n
     % Se caluleaza elementul curent de pe diagonala lui R si coloana curenta
     % a matricii Q; A(:, i) va fi egal cu vectorul u(i), deoarece in for
     % se construieste treptat proiectia vectorului A(:, i) pe subspatiul
     % vectorial format din Q(:, 1), ..., Q(:, i - 1).
-    R(i, i) = norm(A(i, :), 2);
+    R(i, i) = norm(A(:, i), 2);
     Q(:, i) = A(:, i) / R(i, i);
     for j = i + 1 : n
       % Se populeaza  linia i a matricii R.
